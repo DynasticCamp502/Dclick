@@ -19,8 +19,9 @@ Dclick automatically handles its own dependencies. Just follow these steps:
 
     Run the application:
     python3 dclick.py
-
+    
 Note: On the first run, the script will create a virtual environment (venv) and prompt for permissions to install the required system tools (ydotool) and add your user to the input group.
+
 ⚙️ How to use / Как использовать
 
     Launch: Execute python3 dclick.py.
